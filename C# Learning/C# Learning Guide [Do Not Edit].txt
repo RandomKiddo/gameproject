@@ -1,9 +1,0 @@
-For Weeks 5-6 of our C# Learning, you will have to do the project at the end of the book
-
-Finish the project and name it in the format "c#_name". So my file name would be "c#_neil".
-
-Commit the file under the "C# Learning" folder and commit it directly to the master branch (See Github Help document). 
-
-Do not edit this document, or anyone else's.
-
-If you wish to update your file, just commit the new file and make sure it has the same name as the old file in order to override the old one.
