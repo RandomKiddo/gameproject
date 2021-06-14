@@ -15,6 +15,12 @@ ___
 
 _This will be an overview of how to use Github without the command line (NCL = No Command Line)_
 
+1. Find the files you want to upload. Make sure they are the correct format and file extension.
+2. Navigate to [this repository's homepage](https://github.com/RandomKiddo/gameproject) and then navigate to the folder you want to upload in
+3. Drag the files from wherever they are on your device and drop them in the window in Github
+4. Where it says "Commit New File" in the first box, add a small and concise description of the file(s) uploaded. 
+5. Click "Commit ..."
+
 ___
 
 ### Issues in Github
