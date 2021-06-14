@@ -21,6 +21,8 @@ _This will be an overview of how to use Github without the command line (NCL = N
 4. Where it says "Commit New File" in the first box, add a small and concise description of the file(s) uploaded. 
 5. Click "Commit ..."
 
+A note about github file uploading: If a file is already present, it will not create two files. Instead, github will replace the old file, as it recognizes that you are trying to update an old file. If there is no file with the name present it just adds it. Please do not edit or override someone else's file (without their permission at least). 
+
 ___
 
 ### Issues in Github
