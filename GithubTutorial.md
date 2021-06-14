@@ -21,6 +21,17 @@ ___
 
 _This will show you how issues work in Github_
 
+Issues is a good way to bring attention to issues in our code
+
+How to report an issue:
+1. Navigate to the [Issues](https://github.com/RandomKiddo/gameproject/issues) tab
+2. Click "New Issue"
+3. Give it a meaningful title and give a detailed response of the issue and maybe even how to recreate it. Markdown is supported, so please use it. You can click the tab "Preview" to preview your issue and see how it will look once posted. We will be using Issue Templates in the future!
+4. On the right hand side, under "Labels" pick one or more labels that represent the issue. If you know someone who can definitely fix it, select them under "Assignees"
+5. Click "Submit New Issue"
+
+See an example [here](https://github.com/RandomKiddo/gameproject/issues/1)
+
 ___
 
 ### Basics of Pull Requests
