@@ -1,5 +1,8 @@
 # For all developers
 
+![Size](https://img.shields.io/github/languages/code-size/RandomKiddo/gameproject)
+[![Issues](https://img.shields.io/github/issues/RandomKiddo/gameproject)](https://github.com/RandomKiddo/gameproject/issues)
+
 ___
 
 ### Table of Contents
