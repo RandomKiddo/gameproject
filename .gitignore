@@ -1,0 +1,10 @@
+# Internal
+*/bin/Debug/
+*/obj
+*.csproj
+
+# VSCode
+*.code-workspace
+
+# Mac
+*.DS_Store
